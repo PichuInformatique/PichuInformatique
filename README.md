@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PichuInformatique
+- 👀 I’m interested in Pentesting end Developpements
+- 🌱 I’m currently learning Python !
